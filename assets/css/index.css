@@ -1,0 +1,13 @@
+.axis {
+  opacity: 0.4;
+}
+.axis:hover {
+  opacity: 1;
+}
+h1{
+	 text-align: center;
+	 color : #0c9879;
+}
+#my_dataviz{
+    text-align: center !important;
+}
